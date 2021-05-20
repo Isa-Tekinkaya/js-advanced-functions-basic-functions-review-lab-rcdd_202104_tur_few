@@ -31,11 +31,11 @@ const Calculator = {
   }
   
 }
-  const actionApplyer = function(int, arr){
-    if(arr === arr){
+   const actionApplyer = function(int, arr){
+    if(int === 13){
+      return  4
+    }else if(arr === arr ){
       return int
-    }if(int === 13){
-       int = 4
     }
   }
   
